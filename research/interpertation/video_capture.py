@@ -53,7 +53,7 @@ def detect_hand_landmarks(frame):
 
 # Set model input size and desired color format
 model_input_size = (300, 300)
-desired_color_format = ''
+desired_color_format = 'HSV'
 
 # Optionally provide a feature extraction function if needed
 feature_extractor = detect_hand_landmarks  # Replace with your feature extraction logic
