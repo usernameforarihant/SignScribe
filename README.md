@@ -41,7 +41,18 @@ Open your web browser and navigate to `http://localhost:8501`.(The link will app
 
 **Contributing**
 
+## Workflows
+1. Update config.yaml
+2. Update params.yaml
+3. Update entity
+4. Update the configuration manager in src config
+5. Update the conponents
+6. Update the pipeline
+7. Update the main. py
+8. Update the app.py
+
 We welcome contributions to SignScribe! Feel free to fork the repository, make changes, and submit a pull request.
+
 
 **Disclaimer**
 
